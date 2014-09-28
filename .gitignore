@@ -1,0 +1,11 @@
+*.class
+*.*~
+*.bak
+.gradle
+.project
+.idea
+.eclipse
+.jant
+build
+classes
+gradle
